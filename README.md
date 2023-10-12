@@ -1,1 +1,1 @@
-# Concentration-memory-game
+# This Concentration-memory-game is digital card-matching game for 2 – 4 players for the computer console using	modular program using C++. It Uses Text art through the console to display cards, prompts, points, and the winner. Requires an IDE or application that can run C++.
